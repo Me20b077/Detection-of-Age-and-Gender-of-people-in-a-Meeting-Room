@@ -23,7 +23,7 @@ age_gender_model = load_model("Age_Sex_Detection.keras")
 
 top = tk.Tk()
 top.geometry('800x600')
-top.title('Age & Gender Detector')
+top.title('Age, Gender Detector in a Meeting Room')
 top.configure(background='#CDCDCD')
 
 # Initializing the labels (1 for Age and 1 for Sex)
