@@ -8,3 +8,9 @@ This project detects the number of female and male in a meeting room along with 
 4. Upload any image of a meeting room that contains group of people.
 5. Click on Detect button
 6. View Results
+7. After running this file, an image with detected people and their ages will be created in your environment. Just see that image for verification.
+
+
+## This Project has certain constraints
+1. If a person wears white shirt, it detect his/her age as 23 irrespective of their gender and age.
+2. If the total no of people is less than 2 and a person wears black shirt, it predicts him/her as a child irrespective of their gender and age.
