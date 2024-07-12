@@ -14,3 +14,8 @@ This project detects the number of female and male in a meeting room along with 
 ## This Project has certain constraints
 1. If a person wears white shirt, it detect his/her age as 23 irrespective of their gender and age.
 2. If the total no of people is less than 2 and a person wears black shirt, it predicts him/her as a child irrespective of their gender and age.
+
+
+A sample output from gui file looks like this:
+
+![image](https://github.com/user-attachments/assets/d4b1e4cb-9f3e-476c-b267-bf528c0cc980)
