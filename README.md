@@ -4,8 +4,7 @@ This project detects the number of female and male in a meeting room along with 
 ## To simply run this model
 1. Clone this repository
 2. Download the file [Age_Gender_Detection.keras](https://drive.google.com/file/d/1Relr0YTmSFWCbx_KHPCXtv_P4aspTaKD/view?usp=sharing) from this Google Drive.
-3. Run this [gui.py](https://github.com/Me20b077/Detection-of-Age-and-Gender-of-people-in-a-Meeting-Room/blob/main/gui.py) file
-4. Make sure both files in the same folder. 
+3. Run this [gui.py](https://github.com/Me20b077/Detection-of-Age-and-Gender-of-people-in-a-Meeting-Room/blob/main/gui.py) file (Make sure both files in the same folder). 
 5. Upload any image of a meeting room that contains group of people.
 6. Click on Detect button
 7. View Results
